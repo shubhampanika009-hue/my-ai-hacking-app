@@ -1,6 +1,6 @@
 [app]
 
-# (str) Title of your application
+# (str) Title of your applicationr
 title = Jamui AI App
 
 # (str) Package name
