@@ -1,13 +1,13 @@
 [app]
 
 # (str) Title of your application
-title = My AI Hacking App
+title = Jamui AI App
 
 # (str) Package name
-package.name = myaihackingapp
+package.name = jamuiaiapp
 
 # (str) Package domain (needed for android packaging)
-package.domain = org.ai
+package.domain = org.jamui
 
 # (list) Source files to include (let it include python files and assets)
 source.include_exts = py,png,jpg,kv,atlas,json,txt
