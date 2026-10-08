@@ -46,3 +46,19 @@ log_level = 2
 
 # (int) Display warning if buildozer is run as root (0 = False, 1 = True)
 warn_on_root = 1
+[app]
+
+title = Jamui AI App
+package.name = jamuiai
+package.domain = org.jamui
+source.dir = .
+source.include_exts = py,png,jpg,kv,atlas
+requirements = python3,kivy
+version = 0.1
+orientation = portrait
+android.permissions = INTERNET
+android.accept_sdk_license = True
+android.api = 31
+android.min_api = 21
+android.ndk = 23b
+log_level = 2
